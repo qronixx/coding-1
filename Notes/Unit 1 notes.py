@@ -8,4 +8,22 @@
 
 # Repository - The section of github where users can share and view code in read only mode
 
-# 
+# # Operators
+# perators are a construct (built-in system) that give datat types more actions anad power.
+
+# Arithmetic family of operators (math)
+# Arithmetic operators are just math operations
+# arithmetic operators are the addition, and subtraction
+# multiplication, and divison symobls
+
+# 8/27/25
+
+# print () is a funtion where anything inside the round brackets will be printed out in a terminal.
+
+# assignment operator family
+# these operators assign values to variables (otherwise known as containers)
+
+# comparison operator family
+# comparison family of operators simply compares values
+
+# double equal signs mean its comparing if the values are "THE SAME"
