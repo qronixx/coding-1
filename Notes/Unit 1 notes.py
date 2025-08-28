@@ -27,3 +27,8 @@
 # comparison family of operators simply compares values
 
 # double equal signs mean its comparing if the values are "THE SAME"
+
+# logical operator family
+# it checks and com pares fif certain code conditions are true or false
+
+# the AND operator checks to see if 1 condition is true. if 1 condition is true- then it will return true
