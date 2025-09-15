@@ -17,7 +17,6 @@ def pbj():
 pbj()
 
 math()
-
 # create a function for calculatig numbers
 def calculate():
     a = input('please enter a nuber')
