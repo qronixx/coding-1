@@ -12,3 +12,12 @@ def birthday(name,date):
     print('My name is '+ str(name) +' and my birthday is ' +  str(date))
 birthday('Tyheem','November 1st')
 
+def money(dollar):
+    pennies = dollar * 100
+    print('My '+str(dollar)+' is equal to '+ str(pennies) +' pennies')
+
+money(60)
+
+def area(len,wid,hei)
+    print(len * wid * hei)
+area(10,10,10)
