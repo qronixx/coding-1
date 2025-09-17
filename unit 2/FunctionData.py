@@ -18,6 +18,20 @@ def money(dollar):
 
 money(60)
 
-def area(len,wid,hei)
+def area(len,wid,hei):
     print(len * wid * hei)
 area(10,10,10)
+
+
+# Activity 3
+
+def aot(length,width,height):
+    print(length*width*height)
+aot(20,6,52)
+
+
+# Activity 4
+
+def temp(far):
+    print(far - 32  * 5/9)
+temp(89)
