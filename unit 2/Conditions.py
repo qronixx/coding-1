@@ -21,4 +21,4 @@ if weather == 'sunny':
 elif weather == 'rainning':
     print('remember to bring an umberella')
 elif weather == 'snowing':
-    print(Its snowy outside)
+    print('Its snowy outside')
