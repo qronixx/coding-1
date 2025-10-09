@@ -33,4 +33,26 @@ def gameStorage():
     games.remove(gamePicker)
     print(games)
 
-gameStorage()
+# gameStorage()
+
+# Creat a function that adds a new number to the list and puts it in order
+
+numbersList = [100, 20, 203, 3, 5, 1000, 243]
+
+def addAndSort(newNumber):
+    numbersList.append(newNumber)
+    numbersList.sort()
+    print(numbersList)
+
+addAndSort(60)
+
+# add new logic to this funnction so that the list prints out in reverse order
+
+numbersList = [100, 20, 203, 3, 5, 1000, 243]
+
+def addAndSort(newNumber):
+    numbersList.append(newNumber)
+    numbersList.sort(reverse=True)
+    print(numbersList)
+
+addAndSort(60)
