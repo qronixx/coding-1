@@ -63,4 +63,21 @@ def addLoop():
 
     
 
-addLoop()
+# addLoop()
+
+# activity 3
+
+def guessingLoop():
+    correctNumber = 7
+    userInput = int(input('Please pick a number 1-10: '))
+    while userInput != correctNumber:
+        if userInput > correctNumber:
+            print('You guessed to low, try again.')
+            userInput = int(input('Please pick a number 1-10: '))
+        else:
+            print('Number is to low.')
+            userInput = int(input('Please pick a number 1-10: '))
+    else:
+            print('You have guessed correctly')
+
+guessingLoop()
